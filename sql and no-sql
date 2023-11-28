@@ -1,0 +1,18 @@
+SQL Databases:
+
+Structure: SQL (Structured Query Language) databases are relational and use a tabular structure with predefined schemas. They are best suited for structured data.
+Query Language: SQL databases use SQL to query and manipulate data.
+ACID properties: They typically support ACID (Atomicity, Consistency, Isolation, Durability) transactions, ensuring data integrity.
+Examples: MySQL, PostgreSQL, Oracle, SQL Server.
+Use Cases:
+Transactional systems: Banking systems, e-commerce platforms.
+Applications requiring complex queries: Reporting, analytics.
+NoSQL Databases:
+
+Structure: NoSQL databases are non-relational and offer more flexible data models, such as key-value pairs, document-oriented, column-oriented, or graph databases.
+Query Language: NoSQL databases may not use a standard querying language like SQL. Some have their own query languages or APIs.
+Scalability: NoSQL databases are often designed to scale horizontally, making them suitable for handling large volumes of unstructured or semi-structured data.
+Examples: MongoDB (document-based), Cassandra (column-based), Redis (key-value store), Neo4j (graph database).
+Use Cases:
+Big data and real-time web applications: Social media, IoT (Internet of Things) platforms.
+Applications dealing with unstructured data: Content management, mobile apps with variable data structures.
